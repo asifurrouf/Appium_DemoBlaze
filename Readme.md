@@ -42,3 +42,4 @@
 - For running from terminal:
     - execute command ```mvn test```
 <br/>
+Full execution video link: https://drive.google.com/file/d/1XzbUDInX7gjnRn6lm1uVtKTZ66QXYT5T/view
